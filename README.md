@@ -19,7 +19,7 @@ The ER Efficiency Monitor project is focused on enhancing Emergency Room analysi
 
 ## Usage:
 
-1. **Tableau Dashboard:** Access the `ER_Efficiency_Dashboard.twb` file to explore the Tableau dashboard and gain insights into ER efficiency metrics.
+1. **Tableau Dashboard:** Access the `https://public.tableau.com/app/profile/dhaval.patel4547/viz/EmergencyRoom_17051165171760/Dashboard1`  to explore the Tableau dashboard and gain insights into ER efficiency metrics.
 
 
 ## Acknowledgments:
